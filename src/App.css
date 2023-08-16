@@ -1,0 +1,36 @@
+body{
+  background-color: cadetblue;
+}
+.Clear{
+  background-image: url(/public/images/cielo-despejado.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Drizzle{
+  background-image: url(/public/images/aguacero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Thunderstorm{
+  background-image: url(/public/images/tormenta-electrica.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Rain{
+  background-image: url(/public/images/lluvia.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Snow{
+  background-image: url(/public/images/nieve.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Clouds{
+  background-image: url(/public/images/pocas-nubes.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+main{
+  height: 100vh;
+}
